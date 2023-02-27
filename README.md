@@ -1,3 +1,3 @@
 # Login-Form-Template
 
-with pure css(i don't use and css framework like bootstap) and HTML
+am using  pure css and HTML(i don't use any css framework like bootstap) 
